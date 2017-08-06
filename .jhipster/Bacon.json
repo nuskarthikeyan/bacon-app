@@ -1,0 +1,18 @@
+{
+    "fluentMethods": true,
+    "relationships": [],
+    "fields": [
+        {
+            "fieldName": "brand",
+            "fieldType": "String",
+            "fieldValidateRules": [
+                "required"
+            ]
+        }
+    ],
+    "changelogDate": "20170806032105",
+    "dto": "no",
+    "service": "serviceClass",
+    "entityTableName": "bacon",
+    "pagination": "no"
+}
